@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rain-Pavilion&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-###  Rain pavilion的主页
+###  雨亭(Rain pavilion)的主页
 
 <!--
 **Rain-Pavilion/Rain-Pavilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
