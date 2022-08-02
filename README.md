@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Snake](https://github.com/Rain-Pavilion/Rain-Pavilion/blob/snake/github-contribution-grid-snake.svg?raw=true)
