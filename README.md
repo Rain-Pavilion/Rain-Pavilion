@@ -1,8 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Rain-Pavilion&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-###  雨亭(Rain pavilion)
-###  前端
-###  React技术栈热爱者
+###  Rayne
+###  大模型、go、前端
 
 <!--
 **Rain-Pavilion/Rain-Pavilion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
